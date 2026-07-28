@@ -1,0 +1,13 @@
+{
+  "dataset": "mnist_tiny",
+  "source_dataset": "MNIST processed split from the local paper archive",
+  "purpose": "Lightweight execution demo for the PdrQC code package",
+  "train_samples_per_class": 20,
+  "test_samples_per_class": 10,
+  "num_classes": 10,
+  "num_features": 784,
+  "train_samples": 200,
+  "test_samples": 100,
+  "random_state_train": 42,
+  "random_state_test": 4242
+}
